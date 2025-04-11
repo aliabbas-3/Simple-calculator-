@@ -1,2 +1,2 @@
 #Simple_calculator
-basic C++ calculator 
+#basic C++ calculator 
